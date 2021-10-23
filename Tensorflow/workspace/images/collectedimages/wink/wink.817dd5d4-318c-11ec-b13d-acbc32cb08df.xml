@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wink</folder>
+	<filename>wink.817dd5d4-318c-11ec-b13d-acbc32cb08df.jpg</filename>
+	<path>/Users/jaime/deep_learning/object_detection_tf/Tensorflow/workspace/images/collectedimages/wink/wink.817dd5d4-318c-11ec-b13d-acbc32cb08df.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>332</ymin>
+			<xmax>431</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

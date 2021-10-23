@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smile</folder>
+	<filename>smile.2.jpg</filename>
+	<path>/Users/jaime/deep_learning/object_detection_tf/Tensorflow/workspace/images/collectedimages/smile/smile.2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>367</ymin>
+			<xmax>648</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
