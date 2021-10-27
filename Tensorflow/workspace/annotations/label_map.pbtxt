@@ -1,16 +1,16 @@
 item { 
-	name:'tongueout'
+	name:'ThumbsUp'
 	id:1
 }
 item { 
-	name:'wink'
+	name:'ThumbsDown'
 	id:2
 }
 item { 
-	name:'smile'
+	name:'ThankYou'
 	id:3
 }
 item { 
-	name:'surprise'
+	name:'LiveLong'
 	id:4
 }
