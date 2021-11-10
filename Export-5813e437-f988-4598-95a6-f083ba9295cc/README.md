@@ -1,7 +1,5 @@
 # TF Object Detection
 
-[TensorFlow JS](https://www.notion.so/TensorFlow-JS-57e374fe05b342f5b2b6ee73c0733197)
-
 The version of TensorFlow has some requirements about the versions of: Python, Compiler, Build Tools, cuDNN and CUDA
 
 [https://www.tensorflow.org/install/source](https://www.tensorflow.org/install/source)
